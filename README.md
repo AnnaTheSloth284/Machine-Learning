@@ -1,2 +1,2 @@
-# ML-Unsupervised-Learning
-My try at demystifying the basics of Unsupervised ML for anyone coming across this repo.
+# Machine-Learning
+My try at demystifying the basics of Machine for me and anyone coming across this repo.
